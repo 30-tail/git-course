@@ -1,2 +1,4 @@
 # git-course
-Elzero web school course  
+Elzero web school course 
+## secondary notes
+
